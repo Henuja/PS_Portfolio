@@ -4,6 +4,7 @@ import "./Home.css"; // Add a custom CSS file for additional styling
 import Week1 from './assets/week1.jpg';
 import Week2 from './assets/week2.jpg';
 import HeroImage from './assets/Henuja.png'; // Import the new image
+import { Link } from "react-router-dom";
 
 const Home: React.FC = () => {
   return (
@@ -86,7 +87,9 @@ const Home: React.FC = () => {
               <div className="card-body">
                 <h5 className="card-title text-primary">Week 1: Introduction to Professional Skills</h5>
                 <p className="card-text text-muted">Learn about the importance of professional skills in the workplace.</p>
-                <a href="/assignment/1" className="btn btn-primary btn-sm">Read More</a>
+                <Link to={`/assignment/1`} className="text-decoration-none">
+          <button className="btn btn-primary btn-lg shadow-sm">Read More</button>
+        </Link>
               </div>
             </div>
           </div>
@@ -96,13 +99,17 @@ const Home: React.FC = () => {
               <div className="card-body">
                 <h5 className="card-title text-primary">Week 2: CV Writing and Cover Letters</h5>
                 <p className="card-text text-muted">Discover how to create a professional CV and cover letter.</p>
-                <a href="/assignment/2" className="btn btn-primary btn-sm">Read More</a>
+                <Link to={`/assignment/2`} className="text-decoration-none">
+          <button className="btn btn-primary btn-lg shadow-sm">Read more</button>
+        </Link>
               </div>
             </div>
           </div>
         </div>
         <div className="text-center mt-4">
-          <a href="/assignment" className="btn btn-outline-primary btn-lg shadow-sm">View All Assignments</a>
+        <Link to={`/assignment/about`} className="text-decoration-none">
+          <button className="btn btn-primary btn-lg shadow-sm">View All Assignments</button>
+        </Link>
         </div>
       </div>
 
@@ -131,7 +138,9 @@ const Home: React.FC = () => {
       <div className="cta-section mt-5 text-center">
         <h3 className="text-primary">Ready to Collaborate?</h3>
         <p className="text-muted">Let's work together to create something amazing.</p>
-        <a href="/about" className="btn btn-primary btn-lg shadow-sm">Contact Me</a>
+        <Link to={`/assignment/about`} className="text-decoration-none">
+          <button className="btn btn-primary btn-lg shadow-sm">Contact Me</button>
+        </Link>
       </div>
     </div>
   );
