@@ -4,8 +4,6 @@ import "./Home.css"; // Add a custom CSS file for additional styling
 import Week1 from './assets/week1.jpg';
 import Week2 from './assets/week2.jpg';
 import HeroImage from './assets/Henuja.png'; // Import the new image
-import Project1 from './assets/project1.jpg';
-import Project2 from './assets/project2.jpg';
 
 const Home: React.FC = () => {
   return (

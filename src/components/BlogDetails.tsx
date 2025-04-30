@@ -10,7 +10,6 @@ import first from './assets/Johari.jpg';
 import second from './assets/image.png';
 import third from './assets/cv1.jpg';
 import fourth from './assets/cv2.png';
-import five from './assets/portfolio.jpg';
 import six from './assets/portfolio2.jpg';
 import seven from './assets/email.jpg';
 import eight from './assets/EMAIL2.jpg';
