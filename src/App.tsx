@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, BrowserRouter } from "react-router-dom";
+import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import About from "./components/About";
@@ -12,7 +12,7 @@ import BlogDetails from './components/BlogDetails';
 
 const App: React.FC = () => {
   return (
-    <BrowserRouter basename='/PS_portfolio'>
+    <BrowserRouter basename='/'>
       <Navbar />
       <Hero />
       <div className="container mt-5">
