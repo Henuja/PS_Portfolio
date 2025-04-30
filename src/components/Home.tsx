@@ -107,7 +107,7 @@ const Home: React.FC = () => {
           </div>
         </div>
         <div className="text-center mt-4">
-        <Link to={`/assignment/about`} className="text-decoration-none">
+        <Link to={`/assignment`} className="text-decoration-none">
           <button className="btn btn-primary btn-lg shadow-sm">View All Assignments</button>
         </Link>
         </div>
@@ -138,7 +138,7 @@ const Home: React.FC = () => {
       <div className="cta-section mt-5 text-center">
         <h3 className="text-primary">Ready to Collaborate?</h3>
         <p className="text-muted">Let's work together to create something amazing.</p>
-        <Link to={`/assignment/about`} className="text-decoration-none">
+        <Link to={`/about`} className="text-decoration-none">
           <button className="btn btn-primary btn-lg shadow-sm">Contact Me</button>
         </Link>
       </div>
