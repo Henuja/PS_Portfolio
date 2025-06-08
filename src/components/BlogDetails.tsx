@@ -545,7 +545,7 @@ const blogPosts: BlogPost[] = [
             <p class="fs-5 mt-3">
               We have faced an interview eith local companies
             </p>
-            <iframe src=${eleven} width="75%" height="600px" style="border: none" data-aos="fade-up" data-aos-delay="1200"></iframe>
+            <iframe src=${ten} width="75%" height="600px" style="border: none" data-aos="fade-up" data-aos-delay="1200"></iframe>
           </div>
         </div>
       </section>
