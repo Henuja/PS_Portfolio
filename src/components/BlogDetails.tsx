@@ -474,7 +474,7 @@ const blogPosts: BlogPost[] = [
     id: 7,
     content: `
       <section class="container mt-4" data-aos="fade-up">
-        <h1 class="fw-bold text-primary text-center" data-aos="fade-up" data-aos-delay="100">Job Interview Guide</h1>
+        <h1 class="fw-bold text-primary text-center" data-aos="fade-up" data-aos-delay="100">Interview Skills</h1>
         <p class="text-muted text-center" data-aos="fade-up" data-aos-delay="200">Essential Tips for Successful Interviews</p><br>
         <p class="fs-4 text-dark" data-aos="fade-up" data-aos-delay="300">
           Mastering interviews requires strong communication, preparation, and confidence. Here are key strategies:
@@ -539,11 +539,11 @@ const blogPosts: BlogPost[] = [
               <li><i class="bi bi-check-circle-fill text-success"></i> Dress appropriately for the interview.</li>
               <li><i class="bi bi-check-circle-fill text-success"></i> Practice with mock interviews.</li>
             </ul>
-          </div>
+          </div><br>
           <div class="bg-white p-4 rounded shadow-lg" data-aos="fade-up" data-aos-delay="1100">
             <h4 class="fw-bold text-primary">Interviews</h4>
             <p class="fs-5 mt-3">
-              We have faced an interview eith local companies
+              We have faced an interview with local companies
             </p>
             <iframe src=${eleven} width="75%" height="600px" style="border: none" data-aos="fade-up" data-aos-delay="1200"></iframe>
           </div>
@@ -556,7 +556,7 @@ const blogPosts: BlogPost[] = [
     content: `
       <section class="container mt-4" data-aos="fade-up">
         <h1 class="fw-bold text-primary text-center" data-aos="fade-up" data-aos-delay="100">Emotional Intelligence</h1>
-        <p class="text-muted text-center" data-aos="fade-up" data-aos-delay="200">Understanding and Applying Emotional Intelligence in Professional and Personal Growth</p><br>
+        <p class="text-muted text-center" data-aos="fade-up" data-aos-delay="200">Mrs. Hubika joshi</p><br>
         <p class="fs-4 text-dark" data-aos="fade-up" data-aos-delay="300">
           Today’s professional skills lecture focused on Emotional Intelligence (EI). The session covered the definition, importance, and application of EI in various aspects of life.
         </p>
