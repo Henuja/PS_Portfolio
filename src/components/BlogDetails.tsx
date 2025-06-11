@@ -475,7 +475,7 @@ const blogPosts: BlogPost[] = [
     content: `
       <section class="container mt-4" data-aos="fade-up">
         <h1 class="fw-bold text-primary text-center" data-aos="fade-up" data-aos-delay="100">Interview Skills</h1>
-        <p class="text-muted text-center" data-aos="fade-up" data-aos-delay="200">Essential Tips for Successful Interviews</p><br>
+        <p class="text-muted text-center" data-aos="fade-up" data-aos-delay="200">By Miss Ishara Raviharee Weerasinghe</p><br>
         <p class="fs-4 text-dark" data-aos="fade-up" data-aos-delay="300">
           Mastering interviews requires strong communication, preparation, and confidence. Here are key strategies:
         </p>
@@ -556,7 +556,7 @@ const blogPosts: BlogPost[] = [
     content: `
       <section class="container mt-4" data-aos="fade-up">
         <h1 class="fw-bold text-primary text-center" data-aos="fade-up" data-aos-delay="100">Emotional Intelligence</h1>
-        <p class="text-muted text-center" data-aos="fade-up" data-aos-delay="200">Mrs. Hubika joshi</p><br>
+        <p class="text-muted text-center" data-aos="fade-up" data-aos-delay="200">By Miss. Hubika joshi</p><br>
         <p class="fs-4 text-dark" data-aos="fade-up" data-aos-delay="300">
           Today’s professional skills lecture focused on Emotional Intelligence (EI). The session covered the definition, importance, and application of EI in various aspects of life.
         </p>
