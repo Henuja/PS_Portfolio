@@ -15,7 +15,7 @@ import seven from './assets/email.jpg';
 import eight from './assets/EMAIL2.jpg';
 import nine from './assets/Black_Doodle_Tools_for_Generating_Ideas_Mind_Map[1].png';
 import ten from './assets/1.pdf';
-import eleven from './assets/CamScanner 03-06-2025 19.15.pdf';
+import eleven from './assets/2.pdf';
 import image7 from './assets/7.jpg';
 import image5 from './assets/5.jpg';
 import image8 from './assets/work.jpg';
