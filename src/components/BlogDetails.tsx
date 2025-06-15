@@ -244,15 +244,16 @@ const blogPosts: BlogPost[] = [
     id: 4,
     content: `
       <section class="container mt-4" data-aos="fade-up">
-        <h1 class="fw-bold text-primary text-center" data-aos="fade-up" data-aos-delay="100">Email Etiquette</h1>
+        <h1 class="fw-bold text-primary text-center" data-aos="fade-up" data-aos-delay="100">Email Etiquette and meetings</h1>
         <p class="text-muted text-center" data-aos="fade-up" data-aos-delay="200">By Miss Ishara Raviharee Weerasinghe</p><br>
         <p class="fs-4 text-dark" data-aos="fade-up" data-aos-delay="300">
-          Today’s professional skills lecture focused on email etiquette. Below are some key takeaways:
+          Today’s professional skills lecture focused on email etiquette and meetings. Below are some key takeaways:
         </p>
         <ul class="list-unstyled text-start d-inline-block fs-5" data-aos="fade-up" data-aos-delay="400">
           <li><i class="bi bi-check-circle-fill text-success"></i> <b>What is etiquette?</b></li>
           <li><i class="bi bi-check-circle-fill text-success"></i> <b>What are the Email Etiquettes?</b></li>
           <li><i class="bi bi-check-circle-fill text-success"></i> <b>Advantages and disadvantages of Emails</b></li>
+          <li><i class="bi bi-check-circle-fill text-success"></i> <b>Meetings</b></li>
         </ul>
 
         <div class="mt-4">
